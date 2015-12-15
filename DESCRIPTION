@@ -1,0 +1,11 @@
+Package: ecobeeR
+Type: Package
+Title: R Package for use with Ecobee Thermostats
+Version: 0.1
+Date: 2015-12-14
+Author: Mike Birdgeneau
+Maintainer: Mike Birdgeneau <mike.birdgeneau@gmail.com>
+Description: Provides a package for interfacing with Ecobee thermostats
+License: GPL (>= 2)
+NeedsCompilation: no
+LazyData: TRUE
